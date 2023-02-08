@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "свойства кнопок", "свойства кнопок\свойства кнопок.csproj", "{9CD544B5-C2B3-48AF-BE07-23DAE2FDA1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD544B5-C2B3-48AF-BE07-23DAE2FDA1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD544B5-C2B3-48AF-BE07-23DAE2FDA1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD544B5-C2B3-48AF-BE07-23DAE2FDA1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD544B5-C2B3-48AF-BE07-23DAE2FDA1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {581E5644-BFA6-4174-9F80-063E4E496B4E}
+	EndGlobalSection
+EndGlobal

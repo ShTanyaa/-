@@ -1,0 +1,11 @@
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\bin\Debug\свойства кнопок.exe.config
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\bin\Debug\свойства кнопок.exe
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\bin\Debug\свойства кнопок.pdb
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства кнопок.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства кнопок.csproj.SuggestedBindingRedirects.cache
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства_кнопок.Form1.resources
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства_кнопок.Properties.Resources.resources
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства кнопок.csproj.GenerateResource.cache
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства кнопок.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства кнопок.exe
+C:\Users\Татьяна\Downloads\свойства кнопок\свойства кнопок\obj\Debug\свойства кнопок.pdb

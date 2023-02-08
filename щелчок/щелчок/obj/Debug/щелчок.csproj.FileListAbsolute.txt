@@ -1,0 +1,11 @@
+C:\Users\Татьяна\Downloads\щелчок\щелчок\bin\Debug\щелчок.exe.config
+C:\Users\Татьяна\Downloads\щелчок\щелчок\bin\Debug\щелчок.exe
+C:\Users\Татьяна\Downloads\щелчок\щелчок\bin\Debug\щелчок.pdb
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.csproj.SuggestedBindingRedirects.cache
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.Form1.resources
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.Properties.Resources.resources
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.csproj.GenerateResource.cache
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.exe
+C:\Users\Татьяна\Downloads\щелчок\щелчок\obj\Debug\щелчок.pdb
